@@ -1,4 +1,4 @@
-# stack-pewpew
+# README PewPewGame
 
 Ce repo est une copie d'un projet réalisé en binôme dans le cadre de l'UE Programmation Comparée en L3 informatique à la Sorbonne Université.
 
